@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, Cipa here 👋
 
-<!--
-**syfnadya/syfnadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** based in Banjarmasin, focused on building websites, apps, and systems based on needs.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+`PHP` · `JavaScript` · `TailwindCSS` · `Python` · `HTML5`
+
+`Figma` · `Github` · `Git` · `MySQL` · `HeidiSQL`
+
+---
+
+<p align="left">
+  <a href="https://linkedin.com/in/nursyifanadya">LinkedIn</a>
+</p>
