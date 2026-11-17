@@ -14,5 +14,6 @@ I'm a **Software Engineer** based in Banjarmasin, focused on building websites, 
 ---
 
 <p align="left">
+  <p>Connect with me:</p>
   <a href="https://linkedin.com/in/nursyifanadya">LinkedIn</a>
 </p>
